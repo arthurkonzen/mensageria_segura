@@ -1,0 +1,8 @@
+{
+    "proprietario": "Alice",
+    "email": "alice@example.com",
+    "chave_publica_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmDor0ed3pO2WRt9nXZvC\nd+6LHZNowj68kvyV3zPttq5oAiVBqVpgD7RUObUOp6YzKpfY865DkLeJsHZKJi9t\nu7IlnuQGGxRkXlKMHT+9iIasx11dFTatYGi+h0sA8C112qt1GrQlaYyEAt6Z0nHz\n4qv1/t0gBmbr/btfqRkbd6dVWOev6FU+9qljaKk6ARP8pKniMLzmPxty4r6UvCJz\n42mwGpJuwBqqh/Y7fi3WqysF+cRvTBPuIX0d9t/OT4uq3EW179MW37VRSN19xzwd\nhWE+qqnc9c+6I91rz8sIDYmcR4vVEVEcfauKI9J7sViUg4HZn13mDsiJT4yzrZU3\nhQIDAQAB\n-----END PUBLIC KEY-----\n",
+    "valido_de": "2025-01-01",
+    "valido_ate": "2026-01-01",
+    "emissor_simulado": "MiniAC_Exemplo_DV"
+}
